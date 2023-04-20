@@ -31,10 +31,13 @@
             color: black;
         }
 .Purpose {
-    color: midnightblue;
-    float: left;
+    background-color: midnightblue;
+    float: right;
     width: 50%;
     border: 3px solid;
     padding: 10px;
 }
+
+
+    
 
