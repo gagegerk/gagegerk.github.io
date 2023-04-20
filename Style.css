@@ -1,4 +1,9 @@
-﻿/* Add a background color to the top navigation */
+﻿body {
+    background-color: lightslategray;
+}
+
+
+/* Add a background color to the top navigation */
 .topnav {
     background-color: black;
     overflow: hidden;
@@ -26,6 +31,3 @@
             color: black;
         }
 
-body {
-    background-color: lightslategray;
-}
