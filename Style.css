@@ -39,4 +39,6 @@
         }
 table, th, td {
 border:1px solid;
+width:90%;
+height:300px;
 }
